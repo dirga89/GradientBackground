@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "name": "gradientbackground",
+  "description": "",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirga89/GradientBackground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirga89/GradientBackground/issues"
+  },
+  "homepage": "https://github.com/dirga89/GradientBackground#readme"
 }
